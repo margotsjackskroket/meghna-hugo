@@ -17,7 +17,7 @@ pricing:
       label: Bestel
       link: "#contact"
   - name: Jacksbitterballen
-    price: "12"
+    price: "€ 12"
     unit: dozijn
     services:
     - 1GB Disk Space
