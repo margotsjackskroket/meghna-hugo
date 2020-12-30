@@ -16,7 +16,7 @@ pricing:
     button:
       label: Bestel
       link: "#contact"
-  - name: Jaksbitterballen
+  - name: Jacksbitterballen
     price: "12"
     unit: dozijn
     services:
