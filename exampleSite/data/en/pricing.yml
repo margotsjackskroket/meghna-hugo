@@ -16,9 +16,9 @@ pricing:
     button:
       label: Bestel
       link: "#contact"
-  - name: Silver
-    price: "$149"
-    unit: month
+  - name: Jaksbitterballen
+    price: "12"
+    unit: dozijn
     services:
     - 1GB Disk Space
     - 10 Email Account
