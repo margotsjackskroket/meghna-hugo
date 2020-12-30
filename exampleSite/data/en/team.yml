@@ -1,7 +1,7 @@
 ---
 team:
   enable: true
-  title: Our Team
+  title: Ons team
   team_member:
   - name: Margot de Graaff
     image_webp: images/team/margot.webp
